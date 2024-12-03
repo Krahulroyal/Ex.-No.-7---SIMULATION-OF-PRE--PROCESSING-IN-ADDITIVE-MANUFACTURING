@@ -46,7 +46,7 @@
 ## Output:
 
 ### Name:K Rahul royal 
-### Register Number:24003957
+### Register Number:24001357
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
